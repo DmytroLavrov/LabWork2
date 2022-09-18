@@ -1,0 +1,15 @@
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/bin/Debug/net6.0/MyProject3
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/bin/Debug/net6.0/MyProject3.deps.json
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/bin/Debug/net6.0/MyProject3.runtimeconfig.json
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/bin/Debug/net6.0/MyProject3.dll
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/bin/Debug/net6.0/MyProject3.pdb
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/obj/Debug/net6.0/MyProject3.csproj.AssemblyReference.cache
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/obj/Debug/net6.0/MyProject3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/obj/Debug/net6.0/MyProject3.AssemblyInfoInputs.cache
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/obj/Debug/net6.0/MyProject3.AssemblyInfo.cs
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/obj/Debug/net6.0/MyProject3.csproj.CoreCompileInputs.cache
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/obj/Debug/net6.0/MyProject3.dll
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/obj/Debug/net6.0/refint/MyProject3.dll
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/obj/Debug/net6.0/MyProject3.pdb
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/obj/Debug/net6.0/MyProject3.genruntimeconfig.cache
+/Users/dmytrolavrov/Projects/LabWork2/ThirdTask/MyProject3/obj/Debug/net6.0/ref/MyProject3.dll
