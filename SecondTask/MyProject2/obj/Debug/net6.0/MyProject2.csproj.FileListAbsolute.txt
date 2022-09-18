@@ -1,0 +1,15 @@
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/bin/Debug/net6.0/MyProject2
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/bin/Debug/net6.0/MyProject2.deps.json
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/bin/Debug/net6.0/MyProject2.runtimeconfig.json
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/bin/Debug/net6.0/MyProject2.dll
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/bin/Debug/net6.0/MyProject2.pdb
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/obj/Debug/net6.0/MyProject2.csproj.AssemblyReference.cache
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/obj/Debug/net6.0/MyProject2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/obj/Debug/net6.0/MyProject2.AssemblyInfoInputs.cache
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/obj/Debug/net6.0/MyProject2.AssemblyInfo.cs
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/obj/Debug/net6.0/MyProject2.csproj.CoreCompileInputs.cache
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/obj/Debug/net6.0/MyProject2.dll
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/obj/Debug/net6.0/refint/MyProject2.dll
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/obj/Debug/net6.0/MyProject2.pdb
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/obj/Debug/net6.0/MyProject2.genruntimeconfig.cache
+/Users/dmytrolavrov/Projects/LabWork2/MyProject2/MyProject2/obj/Debug/net6.0/ref/MyProject2.dll
